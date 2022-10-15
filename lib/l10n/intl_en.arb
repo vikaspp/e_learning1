@@ -1,0 +1,18 @@
+{
+    "title" : "Infinite Education",
+    "subtitle" : "This is E-Learning Website",
+    "Home" : "Home",
+    "About" : "About",
+    "Course" : "Course",
+    "Signup" : "Sign up",
+    "Login" : "Login/Signup",
+    "Gujarati" : "Gujarati",
+    "Hindi" : "Hindi",
+    "welcomeMessage" : "Welcome to Infinite Education",
+    "login" : "Login",
+    "SignUp" : "Sign Up",
+    "enterEmail" : "Enter Your Email",
+    "enterPassword" : "Enter Your Password",
+    "doNotAccount" : "Don't have an Account ? ",
+    "alreadyAccount" : "क्या आपके पास पहले से एक खाता मौजूद है?"
+}
